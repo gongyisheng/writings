@@ -1,12 +1,43 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'Writings'
-theme = 'archie'
+baseURL = "https://athul.github.io"
+languageCode = "zh-cn"
+title = "Yisheng's writings"
+theme="archie"
+copyright = "© Yisheng Gong"
 
 [params]
-  description = "Personal writings and thoughts"
+	mode="auto" # color-mode → light,dark,toggle or auto
+	useCDN=false # don't use CDNs for fonts and icons, instead serve them locally.
+	subtitle = "short stories"
+
+# Social Tags
+[[params.social]]
+name = "GitHub"
+icon = "github"
+url = "https://github.com/athul/archie"
+
+[[params.social]]
+name = "Twitter"
+icon = "twitter"
+url = "https://twitter.com/athulcajay/"
+
+# Main menu Items
 
 [[menu.main]]
-  name = "Posts"
-  url = "/posts/"
-  weight = 10
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "All posts"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 3
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 4
