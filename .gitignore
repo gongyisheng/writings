@@ -131,3 +131,22 @@ dmypy.json
 # MacOS
 .DS_Store
 .python-version
+
+# Hugo build output
+/public/
+/resources/
+/.hugo_build.lock
+
+# Hugo cache
+/.cache/
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary folders
+tmp/
+temp/

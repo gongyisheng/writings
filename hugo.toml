@@ -1,0 +1,12 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Writings'
+theme = 'archie'
+
+[params]
+  description = "Personal writings and thoughts"
+
+[[menu.main]]
+  name = "Posts"
+  url = "/posts/"
+  weight = 10
