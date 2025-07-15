@@ -5,6 +5,7 @@ theme = "archie"
 copyright = "© Yisheng Gong"
 
 [params]
+	favicon = "/favicon.png"
 	mode="auto" # color-mode → light,dark,toggle or auto
 	useCDN=false # don't use CDNs for fonts and icons, instead serve them locally.
 	subtitle="writing drafts, short stories and poetry"
