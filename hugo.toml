@@ -7,7 +7,7 @@ copyright = "© Yisheng Gong"
 [params]
 	mode="auto" # color-mode → light,dark,toggle or auto
 	useCDN=true # don't use CDNs for fonts and icons, instead serve them locally.
-	subtitle = "writing drafts, short stories and poetry"
+	subtitle="writing drafts, short stories and poetry"
 
 # Social Tags
 [[params.social]]
