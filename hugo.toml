@@ -1,12 +1,12 @@
-baseURL = "https://athul.github.io"
+baseURL = "https://writings.yellowday.day"
 languageCode = "zh-cn"
 title = "Yisheng's writings"
-theme="archie"
+theme = "archie"
 copyright = "© Yisheng Gong"
 
 [params]
 	mode="auto" # color-mode → light,dark,toggle or auto
-	useCDN=true # don't use CDNs for fonts and icons, instead serve them locally.
+	useCDN=false # don't use CDNs for fonts and icons, instead serve them locally.
 	subtitle="writing drafts, short stories and poetry"
 
 # Social Tags
