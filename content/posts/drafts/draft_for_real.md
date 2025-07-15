@@ -2,7 +2,7 @@
 title: Real drafts
 date: "2022-09-01"
 draft: true
-categories: ["drafts"]
+tags: ["drafts"]
 ---
 
 这里是drafts经过挑选之后剩下的写作练习，它们要比公开的部分更粗糙、更一般
