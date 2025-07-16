@@ -3,6 +3,7 @@ title: "Poetry - 信念的踵"
 date: "2023-12-24"
 draft: false
 tags: ["poetry", "<信念的踵>"]
+description: "大陆分界，为妊娠祛魅，\n漫天星辰，是仪式的落款，\n一台机器制造日落与潮汐，\n你能感受灭绝动物的痛苦吗？"
 ---
 信念的踵
 

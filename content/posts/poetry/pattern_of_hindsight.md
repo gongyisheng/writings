@@ -3,6 +3,7 @@ title: "Poetry - 事后的花纹"
 date: "2020-05-06"
 draft: false
 tags: ["poetry", "<信念的踵>"]
+description: "这命中的惩罚欲加之于我，\n正如你的清醒一般不可理喻。"
 ---
 事后的花纹  
 

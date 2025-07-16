@@ -3,6 +3,7 @@ title: "Poetry - 返俗的国王"
 date: "2020-03-04"
 draft: false
 tags: ["poetry", "<信念的踵>"]
+description: "绝望就是巴别塔包围人类，\n我不愿被困一生。"
 ---
 返俗的国王  
  
