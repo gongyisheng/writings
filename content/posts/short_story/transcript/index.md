@@ -3,6 +3,7 @@ title: "Short Story - 笔录 Transcript"
 date: "2020-06-26"
 draft: false
 tags: ["short_story", "<信念的踵>"]
+description: "他们将我绑好并为我上刑，也许他们就不应该存在的，我想"
 ---
 ![img](./images/head.jpg)
 

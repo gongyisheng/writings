@@ -3,6 +3,7 @@ title: "Short Story - 审判 Trail"
 date: "2022-02-25"
 draft: false
 tags: ["short_story", "<信念的踵>"]
+description: "让我几乎忘记这里曾经历过漫长的军人统治"
 ---
 ![img](./images/head.jpg)
 
@@ -31,6 +32,6 @@ But then, for a long time, we did not walk this road again, and then later, I di
 
 I never thought I’d have such a tragic moment, all my subtle, long-tortured assumptions fell away in this moment, and I began to feel ashamed, angry and wanted to insist that she had betrayed me. So I said, “You’re not; you’re in love with him, are you?” She tensed up and said, “No, not at all.” I was speechless for a moment, and at that moment, I began to understand that I could indeed reach the ending I had envisioned, but I had missed the end I wanted most. The words were out, and I had no choice but to save face. I insisted, “You are, you are, I saw it, you are.” She whimpered and whimpered as if she had never expected this day. I bowed my head and ruthlessly refused her request repeatedly, knowing that I had missed her and that I would get this ending the moment I took the liberty of telling my friends that it was no longer possible for us. Fortunately, everything was still within the assumption, and what was beyond the premises, I didn’t expect to get.
 
-So with the judge’s verdict, we each got up and left. It was now late in the fall evening, and a few occasional rays of light came through the warehouse windows and fell on the high walls of the guardhouse, making the whole path seem somewhat brighter. The moment I walked down the gymnasium, I saw the graffiti on that wall, which turned out to be bold black, “Get drunk with wine every day, long live the emperor.” I silently wiped away my tears, got on my bike, and walked up the road one last time, intoxicated by the autumn breeze. I turned two intersections, crossed a bright tunnel of standing water, and returned to the factory where I worked. I saw the sunset, which had never been so vivid, spilling over the factory’s vast, rusty iron pipes. Droplets of water fell in shallow, golden ponds, making me almost forget that this place had a long military rule.
+So with the judge’s verdict, we each got up and left. It was now late in the fall evening, and a few occasional rays of light came through the warehouse windows and fell on the high walls of the guardhouse, making the whole path seem somewhat brighter. The moment I walked down the gymnasium, I saw the graffiti on that wall, which turned out to be bold black, “Get drunk with wine every day, long live the emperor.” I silently wiped away my tears, got on my bike, and walked up the road one last time, intoxicated by the autumn breeze. I turned two intersections, crossed a bright tunnel of standing water, and returned to the factory where I worked. I saw the sunset, which had never been so vivid, spilling over the factory’s vast, rusty iron pipes. Droplets of water fell in shallow, golden ponds, making me almost forget that this place had a long time of military rule.
 
 Feb 2022

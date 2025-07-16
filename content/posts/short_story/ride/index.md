@@ -3,6 +3,7 @@ title: "Short Story - 骑行 Ride"
 date: "2023-09-28"
 draft: false
 tags: ["short_story", "<信念的踵>"]
+description: "摸到死亡的肩胛骨"
 ---
 ![img](./images/head.jpg)
 

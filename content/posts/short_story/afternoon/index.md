@@ -3,6 +3,7 @@ title: "Short Story - 下午 Afternoon"
 date: "2022-10-05"
 draft: false
 tags: ["short_story", "<信念的踵>"]
+description: "时间是从下午四点开始的，我几乎不会怀疑这件事"
 ---
 ![img](./images/head.jpg)
 

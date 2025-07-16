@@ -3,6 +3,7 @@ title: "Short Story - 假设 Hypothesis"
 date: "2020-09-24"
 draft: false
 tags: ["short_story", "<信念的踵>"]
+description: "还有结论，在一场暴雨中，和地球一起自转，公转"
 ---
 ![img](./images/head.jpg)
 

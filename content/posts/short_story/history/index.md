@@ -3,6 +3,7 @@ title: "Short Story - 历史 History"
 date: "2020-06-05"
 draft: false
 tags: ["short_story", "<信念的踵>"]
+description: "它未来的命运，也将一定是像我僭位时那样死气沉沉"
 ---
 ![img](./images/head.jpg)
 

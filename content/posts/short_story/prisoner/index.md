@@ -3,6 +3,7 @@ title: "Short Story - 囚徒 Prisoner"
 date: "2020-06-12"
 draft: false
 tags: ["short_story", "<信念的踵>"]
+description: "我可能确实错过了一个收买什么的机会"
 ---
 ![img](./images/head.jpg)
 

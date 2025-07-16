@@ -3,6 +3,7 @@ title: "Short Story - 游戏 Game"
 date: "2020-12-29"
 draft: false
 tags: ["short_story", "<信念的踵>"]
+description: "我亲爱的，假装上帝的朋友，露出了脖子上的胎记"
 ---
 ![img](./images/head.jpg)
 

@@ -3,6 +3,7 @@ title: "Short Story - 皎漂 Kyaukpyu"
 date: "2024-08-16"
 draft: false
 tags: ["short_story"]
+description: "现在我所有支离破碎的爱都只能给你了"
 ---
 ![img](./images/head.png)
 

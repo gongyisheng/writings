@@ -3,6 +3,7 @@ title: "Short Story - 仪式 Ceremony"
 date: "2020-12-29"
 draft: false
 tags: ["short_story", "<信念的踵>"]
+description: "于是我模仿一个走路同手同脚的人，到她面前，告诉她我爱她"
 ---
 ![img](./images/head.png)
 

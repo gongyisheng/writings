@@ -3,6 +3,7 @@ title: "Short Story - 告别 Valedictory"
 date: "2023-10-06"
 draft: false
 tags: ["short_story", "<信念的踵>"]
+description: "多么愚蠢，我们发动战争"
 ---
 ![img](./images/head.jpg)
 

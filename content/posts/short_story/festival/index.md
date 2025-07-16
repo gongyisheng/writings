@@ -3,6 +3,7 @@ title: "Short Story - 节日 Festival"
 date: "2023-05-17"
 draft: false
 tags: ["short_story", "<信念的踵>"]
+description: "碎片和血迹依旧在那里，今天是一个节日"
 ---
 ![img](./images/head.jpg)
 

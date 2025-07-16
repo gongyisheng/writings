@@ -3,6 +3,7 @@ title: "Short Story - 叙事 Storytelling"
 date: "2023-09-15"
 draft: false
 tags: ["short_story", "<信念的踵>"]
+description: "晚上，还要和我的女友一起去吃饭，吃完饭，我们去看刑场"
 ---
 ![img](./images/head.jpg)
 
