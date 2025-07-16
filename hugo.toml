@@ -4,6 +4,9 @@ title = "Yisheng's writings"
 theme = "archie"
 copyright = "© Yisheng Gong"
 
+[pagination]
+	pagerSize = 20
+
 [params]
 	favicon = "/favicon.png"
 	mode="auto" # color-mode → light,dark,toggle or auto
