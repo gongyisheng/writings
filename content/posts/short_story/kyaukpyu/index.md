@@ -14,6 +14,8 @@ description: "现在我所有支离破碎的爱都只能给你了"
 [1] 岗包，帕索，笼基：缅族传统服饰  
 [2] 皎漂：缅甸若开邦港口城市，2015年来命运一直被中缅原油管道、皎漂深水港、罗兴亚难民危机和缅甸内战所左右。  
 
+2024.8
+
 
 Kyaukpyu
 
@@ -22,4 +24,4 @@ I woke up in the early morning. A few elderly people and fruit hawker were chatt
 [1] Longyi, Paso, Htamein: Burmese traditional dressing.  
 [2] Kyaukpyu: A port city in Rakhine State, Myanmar, whose fate since 2015 has been continually shaped by the China-Myanmar oil pipeline, Kyaukpyu deep-sea port, Rohingya refugee crisis, and Myanmar’s civil war.
 
-2024.8
+Aug 2024

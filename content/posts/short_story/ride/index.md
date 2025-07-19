@@ -34,4 +34,4 @@ It was just such a road, with occasional pedestrians on a side of it, fishing qu
 
 That was all I wanted to say. I gave him two books in his bike basket before saying goodbye to him. Our eighteen kilometers of bike riding tonight ended up here. He thanked me a lot. I looked at his sincere eyes, and wondered if he would open the books. That’s all I can do. Beyond that, there’s only wish. I wish that we all have our answers now. I wish that tonight will be remembered in our flowing lives, interpreting by our histories respectively, shining like bright stars. I wish that we will get feelings of secrecy and serenity every time we recall the night, until the moment when we are thin and bony, harboring desires that were once abundant, touching the shoulder blades of death.
 
-2023.9
+Sept 2023

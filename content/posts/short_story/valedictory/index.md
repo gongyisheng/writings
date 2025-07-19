@@ -28,4 +28,4 @@ Minguo 64
 [1] Temporary Provisions Effective During the Period of National Mobilization for Suppression of the Communist Rebellion: It was temporary provisions set for Chinese Civil War (1945-1949) by the Republic of China. It was amended four times and stay effective until 1991. It effectively nullified the constitution and established martial law in Taiwan, where civil and political freedoms were curtailed.  
 [2] Gold Yuan: It was a method used by the Republic of China government to accumulate gold from its citizens in preparation to relocate to Taiwan. This currency was notorious for vicious inflation due to inadequate issuance preparation and failure to strictly enforce issuance limits.  
 
-2023.10
+Oct 2023
